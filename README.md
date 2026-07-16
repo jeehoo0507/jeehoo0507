@@ -1,5 +1,7 @@
 <div align="center">
-  <h1><a href="https://kr.pinterest.com/y000li/_/" style="text-decoration: none; color: #ffffff;">KSHS 34</a></h1>
+  <a href="https://kangwon-sh.gwe.hs.kr/main.do">
+    <img src="https://raw.githubusercontent.com/jeehoo0507/jeehoo0507/main/wagguri.png" width="300">
+  </a>
 </div>
 
 <div align="center">
