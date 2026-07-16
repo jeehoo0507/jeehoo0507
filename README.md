@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://kangwon-sh.gwe.hs.kr/main.do">
-    <img src="https://raw.githubusercontent.com/jeehoo0507/jeehoo0507/main/wagguri.png" width="300">
+    <img src="https://raw.githubusercontent.com/jeehoo0507/jeehoo0507/main/wagguri.png" width="1000">
   </a>
 </div>
 
