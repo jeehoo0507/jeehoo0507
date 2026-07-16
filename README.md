@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://kangwon-sh.gwe.hs.kr/main.do">
-    <img src="https://raw.githubusercontent.com/jeehoo0507/jeehoo0507/main/wagguri.png" width="1000">
+    <img src="https://raw.githubusercontent.com/jeehoo0507/jeehoo0507/main/wagguri.png" width="700">
   </a>
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h2> <br>
   <div style="margin: 0 auto; text-align: center;" align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2> <br>
   <div align="center">
     <a href="https://app.notion.com/p/VIBE-RATER-39f8487fb5798097bc7dc153c3a7ec0b">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
